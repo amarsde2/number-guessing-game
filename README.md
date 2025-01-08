@@ -21,17 +21,13 @@
 ### Game Mechanics:
 
 
-- The game will first ask if you want to play.
-- If you choose "Yes," you can play the game. Otherwise, the game will exit.
-- If you choose "Yes" to play, the game will then ask if you want to play as the first or second player.
-- If you choose to play as the first player, you will need to select numbers between 1 and 4.
-- You will then be asked to enter a value to add to the selected list a certain number of times.
-- If you enter a number greater than 4 (e.g., 5), you will lose the game.
-- If you choose to enter non-consecutive elements, you will also lose the game.
-- After your turn, the computer will fill consecutive elements into the list.
-- If you enter the number 21 into the list, you will lose. Otherwise, the computer will lose.
-- You can retry the game by pressing 1.
-- If you wish to exit, press 2.
+1. The game will first ask you for two numbers: the lower and higher bounds within which you want to 
+ guess the number.
+2. You have 5 trials to guess the number correctly.
+3. If you guess the number in 5 attempts or fewer, you win the game!
+4. If you fail to guess within the 5 trials, you lose the game.
+5. You can retry the game by pressing 1.
+6. If you wish to exit, press 2.
 
 ### Enjoy and Happy Guessing!
 
